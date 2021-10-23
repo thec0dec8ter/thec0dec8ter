@@ -9,7 +9,7 @@
   
 <a href="https://twitter.com/thec0dec8ter" target="_blank">
   
-  <img src="" />
+  <img src="https://github.com/thec0dec8ter/thec0dec8ter/blob/main/twitter.png" style="width:48px; height:48px" />
 </a>&nbsp;&nbsp;
   
 <a href="https://www.linkedin.com/in/tolulope-adams/" target="_blank">
