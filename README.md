@@ -9,7 +9,7 @@
   
 <a href="https://twitter.com/thec0dec8ter" target="_blank">
   
-  <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
+  <img src="" />
 </a>&nbsp;&nbsp;
   
 <a href="https://www.linkedin.com/in/tolulope-adams/" target="_blank">
