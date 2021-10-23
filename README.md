@@ -1,4 +1,4 @@
-<h1 align='center'>Hii there 👋🏾</h1>
+<h1 align='center'>Heyy there 👋🏾</h1>
 
 <p align='center'>My name is Tolulope Adams, and I'm a Sofware Engineer & Data Analyst and I love to build stuffs that work on the web. I work with Java, Python, Javascript (React, Node.js), BigQuery, to mention a few....</p>
 
@@ -16,7 +16,7 @@
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>&nbsp;&nbsp;
   
-<a href="mailto:me@aolamide.tech" target="_blank">
+<a href="mailto:thec0dec8ter@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/email me-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
 </a>&nbsp;&nbsp;
   <img src="https://gpvc.arturio.dev/aolamide" />
@@ -28,6 +28,6 @@
 </p>
 </p>
 
-<!-- https://github-readme-stats.vercel.app/api?username=aolamide&show_icons=true&title_color=edc00e&text_color=efefed&icon_color=edc00e&bg_color=0b0b0c&line_height=27
-https://github-readme-stats.vercel.app/api?username=aolamide&show_icons=true&title_color=e7be1a&text_color=efefed&icon_color=e7be1a&bg_color=0b0b0c&line_height=27
-https://github-readme-stats.vercel.app/api?username=aolamide&show_icons=true&title_color=69e78b&text_color=efefed&icon_color=69e78b&bg_color=0b0b0c&line_height=27-->
+<!-- https://github-readme-stats.vercel.app/api?username=thec0dec8ter&show_icons=true&title_color=edc00e&text_color=efefed&icon_color=edc00e&bg_color=0b0b0c&line_height=27
+https://github-readme-stats.vercel.app/api?username=thec0dec8ter&show_icons=true&title_color=e7be1a&text_color=efefed&icon_color=e7be1a&bg_color=0b0b0c&line_height=27
+https://github-readme-stats.vercel.app/api?username=thec0dec8ter&show_icons=true&title_color=69e78b&text_color=efefed&icon_color=69e78b&bg_color=0b0b0c&line_height=27-->
