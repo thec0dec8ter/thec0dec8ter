@@ -9,15 +9,15 @@
   
 <a href="https://twitter.com/thec0dec8ter" target="_blank">
   
-  <img src="https://github.com/thec0dec8ter/thec0dec8ter/blob/main/twitter.png" style="width:48px; height:48px" />
+  <img src="https://github.com/thec0dec8ter/thec0dec8ter/blob/main/twitter.svg" style="width:60px; height:60px" />
 </a>&nbsp;&nbsp;
   
 <a href="https://www.linkedin.com/in/tolulope-adams/" target="_blank">
-  <img src="https://github.com/thec0dec8ter/thec0dec8ter/blob/main/linkedIn.png" style="width:120px; height:56px" />
+  <img src="https://github.com/thec0dec8ter/thec0dec8ter/blob/main/linkedIn.svg" style="width:120px; height:60px" />
 </a>&nbsp;&nbsp;
   
 <a href="mailto:thec0dec8ter@gmail.com" target="_blank">
-  <img src="https://github.com/thec0dec8ter/thec0dec8ter/blob/main/gmail.png" style="width:48px; height:48px" />
+  <img src="https://github.com/thec0dec8ter/thec0dec8ter/blob/main/gmail.svg" style="width:60px; height:60px" />
 </a>&nbsp;&nbsp;
 
   
