@@ -13,11 +13,11 @@
 </a>&nbsp;&nbsp;
   
 <a href="https://www.linkedin.com/in/tolulope-adams/" target="_blank">
-  <img src="https://github.com/thec0dec8ter/thec0dec8ter/blob/main/linkedIn.png" />
+  <img src="https://github.com/thec0dec8ter/thec0dec8ter/blob/main/linkedIn.png" style="width:120px; height:56px" />
 </a>&nbsp;&nbsp;
   
 <a href="mailto:thec0dec8ter@gmail.com" target="_blank">
-  <img src="https://github.com/thec0dec8ter/thec0dec8ter/blob/main/gmail.png" />
+  <img src="https://github.com/thec0dec8ter/thec0dec8ter/blob/main/gmail.png" style="width:48px; height:48px" />
 </a>&nbsp;&nbsp;
 
   
