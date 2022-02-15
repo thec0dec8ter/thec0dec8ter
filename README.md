@@ -1,7 +1,7 @@
 <h1 align='center'>Heyy there😉👋🏽</h1>
 
 <p align='center'>
-My name’s Tolulope Adams and I’m a Software Engineer and Data Analyst. I work with Java, Kotlin, Javascript, Python, and a few other languages and frameworks. I’ve always been passionate about tech, finance, and …. I believe that tech creates more problems just as it proffers solutions to problems. I’ve created a couple of apps designed to --------.
+My name’s Tolulope Adams. I’m a Software Engineer and Data Analyst. I work with Java, Kotlin, Javascript, Python, and a few other languages and frameworks. I’ve always been passionate about tech, finance, and …. I believe that tech creates more problems just as it proffers solutions to problems. I’ve created a couple of apps designed to --------.
 I’m always looking for new challenges and I’d love to contribute to open-source projects.
 </p>
 
